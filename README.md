@@ -6,9 +6,9 @@ User-Friendly Interface: Provides an easy-to-use interface for adding, retrievin
 How to Use
 1. Clone the Repository:
 
-git clone https://github.com/yourusername/SafePassKeeper.git
+git clone https://github.com/robert853000/SafePassKeeper.git
 2. Open the Project:
 Open the project in your preferred IDE, such as Visual Studio.
 
-
-![Screenshot_2](https://github.com/username/test/assets/108919293/d8206e8b-5c62-49f9-94e4-19b9d9d5c6e6](https://github.com/robert853000/SafePassKeeper/blob/master/screenshot1.png](https://github.com/robert853000/SafePassKeeper/blob/master/screenshot1.png?raw=true)
+![Screenshot1](https://raw.githubusercontent.com/robert853000/SafePassKeeper/master/screenshot1.png "Screenshot1")
+![Screenshot2](https://raw.githubusercontent.com/robert853000/SafePassKeeper/master/screenshot2.png "Screenshot2")
