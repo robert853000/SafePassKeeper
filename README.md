@@ -11,4 +11,4 @@ git clone https://github.com/yourusername/SafePassKeeper.git
 Open the project in your preferred IDE, such as Visual Studio.
 
 
-![Screenshot_2]([https://github.com/username/test/assets/108919293/d8206e8b-5c62-49f9-94e4-19b9d9d5c6e6](https://github.com/robert853000/SafePassKeeper/blob/master/screenshot1.png))
+![Screenshot_2](https://github.com/username/test/assets/108919293/d8206e8b-5c62-49f9-94e4-19b9d9d5c6e6](https://github.com/robert853000/SafePassKeeper/blob/master/screenshot1.png](https://github.com/robert853000/SafePassKeeper/blob/master/screenshot1.png?raw=true)
