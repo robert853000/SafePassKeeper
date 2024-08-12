@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rs\\Desktop\\SafePassKeeper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44A755F1-6D1E-4798-AC35-FE3EBB3C6C4E}|SafePassKeeper\\SafePassKeeper.csproj|c:\\users\\rs\\desktop\\safepasskeeper\\safepasskeeper\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44A755F1-6D1E-4798-AC35-FE3EBB3C6C4E}|SafePassKeeper\\SafePassKeeper.csproj|solutionrelative:safepasskeeper\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A755F1-6D1E-4798-AC35-FE3EBB3C6C4E}|SafePassKeeper\\SafePassKeeper.csproj|c:\\users\\rs\\desktop\\safepasskeeper\\safepasskeeper\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A755F1-6D1E-4798-AC35-FE3EBB3C6C4E}|SafePassKeeper\\SafePassKeeper.csproj|solutionrelative:safepasskeeper\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A755F1-6D1E-4798-AC35-FE3EBB3C6C4E}|SafePassKeeper\\SafePassKeeper.csproj|c:\\users\\rs\\desktop\\safepasskeeper\\safepasskeeper\\passwordpromptwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44A755F1-6D1E-4798-AC35-FE3EBB3C6C4E}|SafePassKeeper\\SafePassKeeper.csproj|solutionrelative:safepasskeeper\\passwordpromptwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A755F1-6D1E-4798-AC35-FE3EBB3C6C4E}|SafePassKeeper\\SafePassKeeper.csproj|c:\\users\\rs\\desktop\\safepasskeeper\\safepasskeeper\\passwordpromptwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A755F1-6D1E-4798-AC35-FE3EBB3C6C4E}|SafePassKeeper\\SafePassKeeper.csproj|solutionrelative:safepasskeeper\\passwordpromptwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A755F1-6D1E-4798-AC35-FE3EBB3C6C4E}|SafePassKeeper\\SafePassKeeper.csproj|c:\\users\\rs\\desktop\\safepasskeeper\\safepasskeeper\\addaccountwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A755F1-6D1E-4798-AC35-FE3EBB3C6C4E}|SafePassKeeper\\SafePassKeeper.csproj|solutionrelative:safepasskeeper\\addaccountwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A755F1-6D1E-4798-AC35-FE3EBB3C6C4E}|SafePassKeeper\\SafePassKeeper.csproj|c:\\users\\rs\\desktop\\safepasskeeper\\safepasskeeper\\addaccountwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44A755F1-6D1E-4798-AC35-FE3EBB3C6C4E}|SafePassKeeper\\SafePassKeeper.csproj|solutionrelative:safepasskeeper\\addaccountwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A755F1-6D1E-4798-AC35-FE3EBB3C6C4E}|SafePassKeeper\\SafePassKeeper.csproj|c:\\users\\rs\\desktop\\safepasskeeper\\safepasskeeper\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A755F1-6D1E-4798-AC35-FE3EBB3C6C4E}|SafePassKeeper\\SafePassKeeper.csproj|solutionrelative:safepasskeeper\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PasswordPromptWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rs\\Desktop\\SafePassKeeper\\SafePassKeeper\\PasswordPromptWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SafePassKeeper\\PasswordPromptWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\rs\\Desktop\\SafePassKeeper\\SafePassKeeper\\PasswordPromptWindow.xaml.cs",
+              "RelativeToolTip": "SafePassKeeper\\PasswordPromptWindow.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAUwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:15:43.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PasswordPromptWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\rs\\Desktop\\SafePassKeeper\\SafePassKeeper\\PasswordPromptWindow.xaml",
+              "RelativeDocumentMoniker": "SafePassKeeper\\PasswordPromptWindow.xaml",
+              "ToolTip": "C:\\Users\\rs\\Desktop\\SafePassKeeper\\SafePassKeeper\\PasswordPromptWindow.xaml",
+              "RelativeToolTip": "SafePassKeeper\\PasswordPromptWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-12T16:15:17.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddAccountWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rs\\Desktop\\SafePassKeeper\\SafePassKeeper\\AddAccountWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SafePassKeeper\\AddAccountWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\rs\\Desktop\\SafePassKeeper\\SafePassKeeper\\AddAccountWindow.xaml.cs",
+              "RelativeToolTip": "SafePassKeeper\\AddAccountWindow.xaml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAUwEoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:34:32.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddAccountWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\rs\\Desktop\\SafePassKeeper\\SafePassKeeper\\AddAccountWindow.xaml",
+              "RelativeDocumentMoniker": "SafePassKeeper\\AddAccountWindow.xaml",
+              "ToolTip": "C:\\Users\\rs\\Desktop\\SafePassKeeper\\SafePassKeeper\\AddAccountWindow.xaml",
+              "RelativeToolTip": "SafePassKeeper\\AddAccountWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-12T15:34:28.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\rs\\Desktop\\SafePassKeeper\\SafePassKeeper\\Account.cs",
+              "RelativeDocumentMoniker": "SafePassKeeper\\Account.cs",
+              "ToolTip": "C:\\Users\\rs\\Desktop\\SafePassKeeper\\SafePassKeeper\\Account.cs",
+              "RelativeToolTip": "SafePassKeeper\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:08:01.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\rs\\Desktop\\SafePassKeeper\\SafePassKeeper\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SafePassKeeper\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\rs\\Desktop\\SafePassKeeper\\SafePassKeeper\\MainWindow.xaml",
+              "RelativeToolTip": "SafePassKeeper\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-12T14:29:44.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rs\\Desktop\\SafePassKeeper\\SafePassKeeper\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SafePassKeeper\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\rs\\Desktop\\SafePassKeeper\\SafePassKeeper\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SafePassKeeper\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:29:41.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

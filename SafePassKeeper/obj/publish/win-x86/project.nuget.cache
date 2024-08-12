@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AQYobhydvwvgvQFWGV0P9f13X+yI2nmryuldy6ejxILtXfjjJEoCFF//E76xkwu0+k4hO43lwj13qKNZEjRCWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rs\\Desktop\\SafePassKeeper\\SafePassKeeper\\SafePassKeeper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rs\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.3\\microsoft.netcore.app.runtime.win-x86.8.0.3.nupkg.sha512",
+    "C:\\Users\\rs\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.3\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.3.nupkg.sha512",
+    "C:\\Users\\rs\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.3\\microsoft.aspnetcore.app.runtime.win-x86.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
