@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vgp0IgaVQmK0wVaRksw8N8mNookc5+8ZuJi9hw4nr4dKkWKYRI40d8s+BYdoXtZte2kF6CkeQ7v4dZfSeBcniw==",
+  "dgSpecHash": "6NqPEmZsmK7eoXEa5BDIYki5wneyU+AyI7Y79iYdFvDNrhTzw9cJNvxc841KfJ6L4Z3BDLNUZjiqHiTLkar9Fg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rs\\Desktop\\SafePassKeeper\\SafePassKeeper\\SafePassKeeper.csproj",
+  "projectFilePath": "C:\\Users\\rs\\Desktop\\SafePassKeeper_src\\SafePassKeeper\\SafePassKeeper\\SafePassKeeper.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

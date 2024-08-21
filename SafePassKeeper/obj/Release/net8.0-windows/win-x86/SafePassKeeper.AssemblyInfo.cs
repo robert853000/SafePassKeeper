@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SafePassKeeper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2370a3a931d471859024f45ec47e5f725d1a3cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("SafePassKeeper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SafePassKeeper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

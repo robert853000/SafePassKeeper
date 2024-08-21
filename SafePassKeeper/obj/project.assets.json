@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rs\\Desktop\\SafePassKeeper\\SafePassKeeper\\SafePassKeeper.csproj",
+      "projectUniqueName": "C:\\Users\\rs\\Desktop\\SafePassKeeper_src\\SafePassKeeper\\SafePassKeeper\\SafePassKeeper.csproj",
       "projectName": "SafePassKeeper",
-      "projectPath": "C:\\Users\\rs\\Desktop\\SafePassKeeper\\SafePassKeeper\\SafePassKeeper.csproj",
+      "projectPath": "C:\\Users\\rs\\Desktop\\SafePassKeeper_src\\SafePassKeeper\\SafePassKeeper\\SafePassKeeper.csproj",
       "packagesPath": "C:\\Users\\rs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rs\\Desktop\\SafePassKeeper\\SafePassKeeper\\obj\\",
+      "outputPath": "C:\\Users\\rs\\Desktop\\SafePassKeeper_src\\SafePassKeeper\\SafePassKeeper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rs\\AppData\\Roaming\\NuGet\\NuGet.Config",

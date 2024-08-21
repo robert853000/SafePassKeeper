@@ -28,30 +28,7 @@ namespace SafePassKeeper
         public MainWindow()
         {
             InitializeComponent();
-            //LoadAccounts();
 
-            /*
-                        var accounts = new List<Account>
-                    {
-                        new Account { AccountName = "Gmail", Username = "john.doe@gmail.com", Password = "securePass456", Domain = "gmail.com", Note = "Work email" },
-                        new Account { AccountName = "Facebook", Username = "john.doe", Password = "password123", Domain = "facebook.com", Note = "Personal account" }
-                    };
-
-
-                        // Serializace a šifrování
-                        string json = JsonSerializer.Serialize(accounts);
-                        byte[] encryptedData = Encrypt(json, Password);
-                        File.WriteAllBytes(FilePath, encryptedData);
-
-                        // Načtení a dešifrování
-                        byte[] encryptedBytes = File.ReadAllBytes(FilePath);
-                        string decryptedJson = Decrypt(encryptedBytes, Password);
-                        var decryptedAccounts = JsonSerializer.Deserialize<List<Account>>(decryptedJson); Debug.WriteLine("text");
-                        Debug.WriteLine("Test");
-                        foreach (var account in decryptedAccounts)
-                        {
-                            Debug.WriteLine($"Account: {account.AccountName}, Username: {account.Username}, Domain: {account.Domain}, Note: {account.Note}");
-                        }*/
         }
         private void SetFilePathButton_Click(object sender, RoutedEventArgs e)
         {
@@ -159,6 +136,12 @@ namespace SafePassKeeper
             }
             catch (Exception ex)
             {
+                AccountListBox.Visibility = Visibility.Hidden;
+                DetailsTextBox.Visibility = Visibility.Hidden;
+                AddAccountButton.Visibility = Visibility.Hidden;
+                EditAccountButton.Visibility = Visibility.Hidden;
+                DeleteAccountButton.Visibility = Visibility.Hidden;
+                ExportBackupButton.Visibility = Visibility.Hidden;
                 MessageBox.Show($"Error loading accounts: {ex.Message}");
                // CreateDefaultAccounts();
             }
